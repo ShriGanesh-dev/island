@@ -361,5 +361,13 @@ textarea {
 .move-video{
   width: 24px;
   position: absolute;
-  top:90%;
+  top:600px;
+}
+
+.back-button{
+  left:165px;
+  transform: rotate(180deg);
+}
+.next-button{
+  left:665px;
 }
